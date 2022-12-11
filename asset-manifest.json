@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio03/static/css/main.12645290.css",
+    "main.js": "/react-portfolio03/static/js/main.1362926c.js",
+    "static/js/787.2b729a75.chunk.js": "/react-portfolio03/static/js/787.2b729a75.chunk.js",
+    "static/media/MST-Certificate.PNG": "/react-portfolio03/static/media/MST-Certificate.12b67a1c9a0324ec875b.PNG",
+    "static/media/nemsu.png": "/react-portfolio03/static/media/nemsu.4369a99fe6c6c160184e.png",
+    "static/media/transfer-learning.PNG": "/react-portfolio03/static/media/transfer-learning.af1e72a311d0174c9857.PNG",
+    "static/media/superhero.PNG": "/react-portfolio03/static/media/superhero.5a53e8bca8ec34039baa.PNG",
+    "static/media/tweet-emotion-recognition.PNG": "/react-portfolio03/static/media/tweet-emotion-recognition.74cc0d7732d8f1e412fb.PNG",
+    "static/media/google-sheet.PNG": "/react-portfolio03/static/media/google-sheet.6ad5bd806e0142cf7fc1.PNG",
+    "static/media/AI.PNG": "/react-portfolio03/static/media/AI.8f0005652f18499fed32.PNG",
+    "static/media/pic.jpg": "/react-portfolio03/static/media/pic.92093f17a09d7aa924f9.jpg",
+    "static/media/logo.svg": "/react-portfolio03/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-portfolio03/index.html",
+    "main.12645290.css.map": "/react-portfolio03/static/css/main.12645290.css.map",
+    "main.1362926c.js.map": "/react-portfolio03/static/js/main.1362926c.js.map",
+    "787.2b729a75.chunk.js.map": "/react-portfolio03/static/js/787.2b729a75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12645290.css",
+    "static/js/main.1362926c.js"
+  ]
+}
