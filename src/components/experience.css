@@ -1,0 +1,12 @@
+.content{
+    border-bottom: 1px solid white;
+}
+.experience h1{
+    padding:30px 30px 0 30px;
+    color: white;
+}
+
+.experience p{
+    padding: 0 30px;
+    color: white;
+}

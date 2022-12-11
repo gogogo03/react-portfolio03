@@ -1,0 +1,13 @@
+.content{
+    border-bottom: 1px solid white;
+    /* background-color: #777777;   */
+}
+.certificate h1{
+    padding:30px 30px 0 30px;
+    color: white;
+}
+
+.certificate p{
+    padding: 0 30px;
+    color: white;
+}

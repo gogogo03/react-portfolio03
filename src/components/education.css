@@ -1,0 +1,22 @@
+
+.content{
+    border-bottom: 1px solid white;
+    background-color: #282c34;
+}
+.education h1,h3{
+    padding:0px 30px 0 30px;
+    color: white;
+    
+}
+
+.education p{
+    padding: 0 30px;
+    color: white;
+}
+.education img{
+    background-color: white;
+    border-radius: 50%;
+    object-fit: cover;
+    width: 200px;
+    height:200px;
+}

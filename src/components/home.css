@@ -1,0 +1,19 @@
+.home{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+.name h2{
+    padding-top:25%;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    width: 100%;
+}
+.home img{
+    object-fit: cover;
+    padding-right: 50px;
+    width: 450px;
+    height: 500px;
+    float: right;
+}
