@@ -1,5 +1,5 @@
 import './home.css';
-import pic from '../img/pic.jpg';
+import pic from '../img/gojo.png';
 function Home() {
     return (
       <div className="home" id="home">
